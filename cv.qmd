@@ -1,0 +1,32 @@
+---
+title: "CV"
+page-layout: full
+---
+
+# Rosie Kipling
+Senior Data Scientist — Analytics, Causal Inference & Experimentation  
+<rosie@rosiedata.com> · [GitHub](https://github.com/rosiekipling) · [LinkedIn](https://linkedin.com/in/rosiekipling)
+
+## Summary
+Product-focused data scientist with deep experience in analytics, causal impact, uplift modelling, and experimentation at scale. I build explainable tools that help PMs and coaches make confident decisions.
+
+## Skills
+**Technical:** Python (pandas, NumPy, Altair), R (bsts), SQL (Snowflake), Streamlit, statsmodels, TensorFlow Probability  
+**Methods:** A/B/n, CUPED, diff-in-diff, BSTS, BH correction, sequential testing
+
+## Experience
+**Senior Data Scientist — Bumble** (2020–present)  
+- TBC
+- TBC
+
+**Data Scientist — Company** (2019–2022)  
+- TBC
+
+## Selected Projects
+- TBC
+
+## Education
+BSc Mathematics - University of York
+
+## Talks & Writing
+- TBC

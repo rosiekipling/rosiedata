@@ -1,0 +1,12 @@
+---
+title: "Causal Impact for Product Metrics"
+description: "Sketching a BSTS-style template page."
+date: 2025-10-08
+---
+
+> This is a placeholder article. Replace with your real write-up and figures.
+
+- What decision are we making?
+- Design: pre-period, post-period, controls
+- Model: BSTS highlights
+- Output: posterior effects with uncertainty

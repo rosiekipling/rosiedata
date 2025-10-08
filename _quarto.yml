@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Rosie Kipling"
+  description: "Data scientist – golf analytics, causal inference, experimentation"
+  navbar:
+    logo: /static/avatar.svg
+    right:
+      - text: CV
+        href: cv.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Blog
+        href: posts/
+      - icon: github
+        href: https://github.com/rosiekipling
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rosiekipling/
+  page-footer:
+    left: "© 2025 Rosie Kipling"
+    right: "Built with Quarto"
+  favicon: /static/favicon.svg
+  open-graph: true
+  twitter-card:
+    creator: "@your-handle"
+    image: /static/social-card.svg
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    html-math-method: katex
+    code-copy: true
+    anchor-sections: false
+
+include-in-header: _includes/head.html

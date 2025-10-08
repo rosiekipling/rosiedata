@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+Below are a few selected projects. For code and more, see my [GitHub](https://github.com/rosiekipling).
+
+<div class="card-grid">
+  <a class="card lift" href="https://rosiedata.streamlit.app">
+    <div class="card-body">
+      <h3>Strokes Gained Explorer</h3>
+      <p>Upload shot-level data; see hole-by-hole SG, dispersion maps, and leakage analysis.</p>
+      <span class="tag">Streamlit</span> <span class="tag">Altair</span>
+    </div>
+  </a>
+
+  <a class="card lift" href="/posts/ab-testing-bsts.qmd">
+    <div class="card-body">
+      <h3>Causal Impact for Product Metrics</h3>
+      <p>BSTS templates, multiple testing control, and dashboards.</p>
+      <span class="tag">BSTS</span> <span class="tag">Causal</span>
+    </div>
+  </a>
+</div>
