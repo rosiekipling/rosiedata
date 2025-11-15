@@ -3,17 +3,15 @@ project:
   output-dir: _site
 
 website:
-  title: "Rosie Kipling"
+  title: " D A T A"
   description: "Data scientist – golf analytics, causal inference, experimentation"
   navbar:
-    logo: /static/avatar.svg
+    logo: /static/6.png
     right:
-      - text: CV
+      - text: C V
         href: cv.qmd
-      - text: Projects
+      - text: P R O J E C T S
         href: projects.qmd
-      - text: Blog
-        href: posts/
       - icon: github
         href: https://github.com/rosiekipling
       - icon: linkedin

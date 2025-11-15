@@ -1,19 +1,25 @@
 ---
-title: "Data Science & Causal Inference"
 image: /static/social-card.svg
+format: html
+page-layout: full
 ---
 
-<div class="hero">
-  <div class="hero-text">
-    <h1>Hi, I’m Rosie Kipling.</h1>
-    <p>I design and ship data products that move metrics — specialising in golf analytics, causal impact, experimentation, and decision tooling.</p>
-    <div class="hero-ctas">
-      <a class="btn btn-primary btn-lg" href="cv.qmd">View CV</a>
-      <a class="btn btn-outline-secondary btn-lg" href="projects.qmd">See Projects</a>
-    </div>
-  </div>
-  <img class="hero-avatar" src="/static/avatar.svg" alt="Rosie headshot">
+# Hi, I'm Rosie.
+
+::: {.hero}
+::: {.hero-text}
+
+I design and ship data products that move metrics — specialising in **golf analytics**, causal impact, experimentation, and decision tooling.
+
+<div class="hero-ctas">
+  <a class="btn btn-primary btn-lg" href="projects.qmd">Projects</a>
+  <a class="btn btn-primary btn-lg" href="cv.qmd">CV</a>
 </div>
+:::
+
+![](static/5.png){.hero-image}
+
+:::
 
 <div class="cred-bar">
   <span>Python</span><span>SQL</span><span>dbt</span><span>Streamlit</span><span>AB Testing</span><span>Causal Inference</span>
@@ -21,20 +27,43 @@ image: /static/social-card.svg
 
 ## Featured projects
 
-<div class="card-grid">
-  <a class="card lift" href="https://rosiedata.streamlit.app">
-    <div class="card-body">
-      <h3>Strokes Gained Explorer</h3>
-      <p>Upload shot-level data; see hole-by-hole SG, dispersion maps, and leakage analysis.</p>
-      <span class="tag">Streamlit</span> <span class="tag">Altair</span>
-    </div>
-  </a>
+::: {.card-grid}
 
-  <a class="card lift" href="/posts/ab-testing-bsts.qmd">
-    <div class="card-body">
-      <h3>Causal Impact for Product Metrics</h3>
-      <p>BSTS templates, multiple testing control, and dashboards.</p>
-      <span class="tag">BSTS</span> <span class="tag">Causal</span>
-    </div>
-  </a>
+::: {.card .lift}
+<div class="card-body">
+
+### [Predicting a PGA Tour Winner (Part 1)](https://medium.com/analytics-vidhya/predicting-a-pga-tour-winner-part-1-exploration-and-regression-models-e19a25351c75){target="_blank"}
+
+Exploration and Regression Models
+
+<span class="tag">Medium Article</span> <span class="tag">Python Exploration</span> <span class="tag">Regression Models</span>
+
 </div>
+:::
+
+::: {.card .lift}
+<div class="card-body">
+
+### [Predicting a PGA Tour Winner (Part 2)](https://medium.com/analytics-vidhya/predicting-a-pga-tour-winner-part-1-exploration-and-regression-models-e19a25351c75){target="_blank"}
+
+K-Means Clustering, Decision Trees & Prediction
+
+<span class="tag">Medium Article</span> <span class="tag">K-Means Clustering</span> <span class="tag">Decision Tree</span>
+
+</div>
+:::
+
+::: {.card .lift}
+<div class="card-body">
+
+### [Strokes Gained Explorer](https://rosiedata.streamlit.app){target="_blank"}
+
+Upload shot-level data; see hole-by-hole SG, dispersion maps, and leakage analysis.  
+
+<span class="tag">Streamlit</span> <span class="tag">Altair</span>
+
+</div>
+:::
+
+:::
+

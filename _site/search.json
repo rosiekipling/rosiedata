@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Senior Data Scientist — Analytics, Causal Inference & Experimentation\nrosie@rosiedata.com · GitHub · LinkedIn\n\n\nProduct-focused data scientist with deep experience in analytics, causal impact, uplift modelling, and experimentation at scale. I build explainable tools that help PMs and coaches make confident decisions.\n\n\n\nTechnical: Python (pandas, NumPy, Altair), R (bsts), SQL (Snowflake), Streamlit, statsmodels, TensorFlow Probability\nMethods: A/B/n, CUPED, diff-in-diff, BSTS, BH correction, sequential testing\n\n\n\nSenior Data Scientist — Bumble (2020–present)\n- TBC - TBC\nData Scientist — Company (2019–2022)\n- TBC\n\n\n\n\nTBC\n\n\n\n\nBSc Mathematics - University of York\n\n\n\n\nTBC"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "CV",
+    "section": "",
+    "text": "Product-focused data scientist with deep experience in analytics, causal impact, uplift modelling, and experimentation at scale. I build explainable tools that help PMs and coaches make confident decisions."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Technical: Python (pandas, NumPy, Altair), R (bsts), SQL (Snowflake), Streamlit, statsmodels, TensorFlow Probability\nMethods: A/B/n, CUPED, diff-in-diff, BSTS, BH correction, sequential testing"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "Senior Data Scientist — Bumble (2020–present)\n- TBC - TBC\nData Scientist — Company (2019–2022)\n- TBC"
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "CV",
+    "section": "",
+    "text": "TBC"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "BSc Mathematics - University of York"
+  },
+  {
+    "objectID": "cv.html#talks-writing",
+    "href": "cv.html#talks-writing",
+    "title": "CV",
+    "section": "",
+    "text": "TBC"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are a few selected projects. For code and more, see my GitHub.\n\n\n\nStrokes Gained Explorer\nUpload shot-level data; see hole-by-hole SG, dispersion maps, and leakage analysis.\nStreamlit Altair\n\n\n\n\nCausal Impact for Product Metrics\nBSTS templates, multiple testing control, and dashboards.\nBSTS Causal"
+  },
+  {
+    "objectID": "posts/ab-testing-bsts.html",
+    "href": "posts/ab-testing-bsts.html",
+    "title": "Causal Impact for Product Metrics",
+    "section": "",
+    "text": "This is a placeholder article. Replace with your real write-up and figures.\n\n\nWhat decision are we making?\nDesign: pre-period, post-period, controls\nModel: BSTS highlights\nOutput: posterior effects with uncertainty"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Rosie.",
+    "section": "",
+    "text": "I design and ship data products that move metrics — specialising in golf analytics, causal impact, experimentation, and decision tooling.\n\nP R O J E C T S C V\n\n\n\n\n\nPythonSQLdbtStreamlitAB TestingCausal Inference\n\n\n\n\n\n\n\nExploration and Regression Models\nMedium Article Python Exploration Regression Models\n\n\n\n\n\nK-Means Clustering, Decision Trees & Prediction\nMedium Article K-Means Clustering Decision Tree\n\n\n\n\n\nUpload shot-level data; see hole-by-hole SG, dispersion maps, and leakage analysis.\nStreamlit Altair"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Hi, I’m Rosie.",
+    "section": "",
+    "text": "Exploration and Regression Models\nMedium Article Python Exploration Regression Models\n\n\n\n\n\nK-Means Clustering, Decision Trees & Prediction\nMedium Article K-Means Clustering Decision Tree\n\n\n\n\n\nUpload shot-level data; see hole-by-hole SG, dispersion maps, and leakage analysis.\nStreamlit Altair"
+  },
+  {
+    "objectID": "index.html#hi-im-rosie.",
+    "href": "index.html#hi-im-rosie.",
+    "title": "RosieData",
+    "section": "",
+    "text": "I design and ship data products that move metrics — specialising in golf analytics, causal impact, experimentation, and decision tooling.\n\nProjects CV\n\n\n\n\n\nPythonSQLdbtStreamlitAB TestingCausal Inference"
+  },
+  {
+    "objectID": "index.html#hi-im-rosie.-1",
+    "href": "index.html#hi-im-rosie.-1",
+    "title": "RosieData",
+    "section": "Hi, I’m Rosie.",
+    "text": "Hi, I’m Rosie.\nI design and ship data products that move metrics — specialising in golf analytics, causal impact, experimentation, and decision tooling.\n\nProjects CV"
+  }
+]
