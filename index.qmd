@@ -44,7 +44,7 @@ Exploration and Regression Models
 ::: {.card .lift}
 <div class="card-body">
 
-### [Predicting a PGA Tour Winner (Part 2)](https://medium.com/analytics-vidhya/predicting-a-pga-tour-winner-part-1-exploration-and-regression-models-e19a25351c75){target="_blank"}
+### [Predicting a PGA Tour Winner (Part 2)](https://medium.com/analytics-vidhya/predicting-a-pga-tour-winner-part-2-k-means-clustering-decision-trees-prediction-72b42c788c55){target="_blank"}
 
 K-Means Clustering, Decision Trees & Prediction
 
